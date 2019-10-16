@@ -1,3 +1,1 @@
-var team = ["abid", "faizan"];
-
-console.log(team);
+var ["abid", "faizan",]
